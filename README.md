@@ -5,9 +5,8 @@ Given a XSD (XML Schema Definition) file, generating corresponding Golang XML st
 This tool is written in Java.
 
 1. Requirements
-
-- Java 1.6 or above.
-- XJC (Jaxb Binding Compiler) 
+	* Java 1.6 or above.
+	* XJC (Jaxb Binding Compiler) 
 
 2. Usage
 
