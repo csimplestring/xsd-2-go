@@ -15,8 +15,8 @@ the path of xsd file:
 
 run.sh test.xsd 
 
-Then it will output 
-
+For example, it will output some Golang structs with XML tags.
+```
 type XMLVendor struct {
 	XMLName xml.Name 	`xml:"vendor"`
 	Value	[]string	`xml:"value"`
@@ -27,6 +27,6 @@ type XMLVersion struct {
 	Id	string			`xml:"id,attr"`
 	Value	bool		`xml:"value,attr"`
 }
-.............
+```
 
 
