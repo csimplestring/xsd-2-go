@@ -9,7 +9,6 @@ This tool is written in Java.
 	* XJC (Jaxb Binding Compiler) 
 
 2. Usage
-
 Using this tool is pretty easy: download jar folder, then go to jar folder.
 In that folder, there are a jar file and run.sh script. You just need to give 
 the path of xsd file:
